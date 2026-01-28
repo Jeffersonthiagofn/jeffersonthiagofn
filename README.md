@@ -37,12 +37,6 @@ Atualmente estudo e pratico desenvolvimento de software, buscando entender não 
 
 ---
 
-## 📈 GitHub Stats
-
-![Jefferson GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeffersonthiagofn&show_icons=true&theme=default)
-
----
-
 ## 📫 Vamos conversar?
 
 - 💼 LinkedIn: https://www.linkedin.com/in/jefferson-thiagofn/  
