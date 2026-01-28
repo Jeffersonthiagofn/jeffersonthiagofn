@@ -9,7 +9,7 @@
 
 ## 🧠 Sobre mim
 
-Sou um entusiasta de tecnologia em transição de carreira para o desenvolvimento **Full-stack**. Atualmente, curso o 2º ano de **Sistemas de Informação** em Campina Grande/PB e atuo como **Supervisor de Operações**, o que me deu uma base sólida em liderança, processos e resolução de problemas. Venho da área administrativa e estou construindo minha transição e consolidação na área de tecnologia, unindo **visão de negócio** com **pensamento técnico**.
+Sou um entusiasta de tecnologia em transição de carreira para o desenvolvimento **Full-stack**. Atualmente, curso o 2º ano de **Sistemas de Informação** na Unifacisa e atuo como **Supervisor de Operações**, o que me deu uma base sólida em liderança, processos e resolução de problemas. Venho da área administrativa e estou construindo minha transição e consolidação na área de tecnologia, unindo **visão de negócio** com **pensamento técnico**.
 
 Atualmente estudo e pratico desenvolvimento de software, buscando entender não só o *como*, mas principalmente o *porquê* das coisas.
 
@@ -23,10 +23,6 @@ Atualmente estudo e pratico desenvolvimento de software, buscando entender não 
 - **APIs REST**
 - **Banco de Dados**
 
-### 🔧 Ferramentas
-- Git & GitHub  
-- Linux  
-
 ---
 
 ## 🎯 Objetivos
@@ -37,7 +33,7 @@ Atualmente estudo e pratico desenvolvimento de software, buscando entender não 
 
 ---
 
-## 📫 Vamos conversar?
+## 📫 Vamos nos conectar?
 
 - 💼 LinkedIn: https://www.linkedin.com/in/jefferson-thiagofn/  
 - ✉️ Email: jeffersonthiagofn@gmail.com
